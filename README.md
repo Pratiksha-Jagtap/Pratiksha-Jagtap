@@ -7,7 +7,10 @@
 <a href="https://www.linkedin.com/in/er-pratiksha-jagtap/" target="_blank"><img 
 align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="er-pratiksha-jagtap" height="30" width="40" /></a>
 
+### About Myself
+Hi, My Name is Pratiksha Rajendra Jagtap. I've completed my BE in Computer Engineering.
 I'm a Data Scientist currently working with AI Variant on the projects of Sentiment Analysis and Unsupervised Learning Algorithms.
+
 
 ### Programming Languages
 
