@@ -1,6 +1,5 @@
 # Welcome to my Profile! 
-### Hello there glad to see you here! 
-<a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hello there glad to see you here! <a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 ### My LinkedIn Profile 
 
